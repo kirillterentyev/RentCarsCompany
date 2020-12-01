@@ -1,7 +1,9 @@
 package cars.dto;
 
 public enum State {
-    BAD,            //take penalty
-    GOOD,           //take penalty
     EXCELLENT,
+    GOOD, //take penalty
+    BAD,  //take penalty
+
+
 }
